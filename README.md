@@ -5,7 +5,9 @@
 <h3>Người upload: Trần Nguyễn Bá Huy - N22DCPT037</h3>
 <div>
   <h3>Danh sách thành viên:</h3>
-  <p>Trần Nguyễn Bá Huy - N22DCPT037</p>
-  <p>Nguyễn Đăng Khoa - N22DCPT045</p>
-  <p>Vũ Hoàng Quang Dũng - N22DCPT011</p>
+  <ul>
+    <li><p>Trần Nguyễn Bá Huy - N22DCPT037</p></li>
+    <li><p>Nguyễn Đăng Khoa - N22DCPT045</p></li>
+    <li><p>Vũ Hoàng Quang Dũng - N22DCPT011</p></li>
+  </ul>
 </div>
