@@ -1,4 +1,4 @@
-<h1>ĐỒ ÁN CUỐI KỲ NHẬP MÔN CÔNG NGHỆ PHẦN MỀM</h1>
+<h1>ĐỒ ÁN CUỐI KỲ HỌC PHẦN NHẬP MÔN CÔNG NGHỆ PHẦN MỀM</h1>
 <h2>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PTIT.jpg"c alt="ptit logo" width="80" height="80">
 </h2>
